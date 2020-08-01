@@ -1,79 +1,34 @@
 {
   "project_info": {
-    "project_number": "143457195660",
-    "firebase_url": "https://zetgo-59f8e.firebaseio.com",
-    "project_id": "zetgo-59f8e",
-    "storage_bucket": "zetgo-59f8e.appspot.com"
+    "project_number": "921724336483",
+    "firebase_url": "https://lingolab-dd530.firebaseio.com",
+    "project_id": "lingolab-dd530",
+    "storage_bucket": "lingolab-dd530.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:143457195660:android:97d0f556270fa92d780da9",
-        "android_client_info": {
-          "package_name": "com.coco.zetgo"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "143457195660-f567gurcji2ssjd765cdiuruf2c57j2g.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.coco.zetgo",
-            "certificate_hash": "1c30fb7c992cd6d2bb20d588a3186364a34698f8"
-          }
-        },
-        {
-          "client_id": "143457195660-d70dumit99m7g2lt6moj979f44hgdje7.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyALa6YwJES8Jcm7uzUXJcvj9TzIwvDH2qg"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "143457195660-d70dumit99m7g2lt6moj979f44hgdje7.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:143457195660:android:6c884030ad8bc940780da9",
+        "mobilesdk_app_id": "1:921724336483:android:b35ef8f18e78e5160bfb56",
         "android_client_info": {
           "package_name": "com.lin.lingolab"
         }
       },
       "oauth_client": [
         {
-          "client_id": "143457195660-sardcf4h6pv4jghcalsfvqebe9lfkq64.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.lin.lingolab",
-            "certificate_hash": "1c30fb7c992cd6d2bb20d588a3186364a34698f8"
-          }
-        },
-        {
-          "client_id": "143457195660-d70dumit99m7g2lt6moj979f44hgdje7.apps.googleusercontent.com",
+          "client_id": "921724336483-oip8vdsgbpubg9htoa55621anfkmkgbd.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyALa6YwJES8Jcm7uzUXJcvj9TzIwvDH2qg"
+          "current_key": "AIzaSyCn_dH1c0t-sJqiWZGecqJWORcYCtD1TnI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "143457195660-d70dumit99m7g2lt6moj979f44hgdje7.apps.googleusercontent.com",
+              "client_id": "921724336483-oip8vdsgbpubg9htoa55621anfkmkgbd.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
